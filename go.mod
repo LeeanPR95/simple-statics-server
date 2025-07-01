@@ -1,4 +1,4 @@
-module mi-cli
+module sss
 
 go 1.18
 
